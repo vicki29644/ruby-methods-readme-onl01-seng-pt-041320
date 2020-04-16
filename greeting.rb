@@ -1,7 +1,5 @@
 def greeting #
-Method Signature
-  puts "Hello 
-World" # Method
-
-end # Method
+ puts "Hello 
+World" 
+end 
 
